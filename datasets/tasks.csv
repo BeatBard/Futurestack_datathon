@@ -1,20 +1,20 @@
 task_id,task_name,section_id,section_name
-TASK-001,,SEC-001,
-TASK-002,,SEC-001,
-TASK-003,,SEC-002,
-TASK-004,,SEC-002,
-TASK-005,,SEC-002,
-TASK-006,,SEC-002,
-TASK-007,,SEC-003,
-TASK-008,,SEC-003,
-TASK-009,,SEC-003,
-TASK-010,,SEC-004,
-TASK-011,,SEC-004,
-TASK-012,,SEC-004,
-TASK-013,,SEC-005,
-TASK-014,,SEC-005,
-TASK-015,,SEC-005,
-TASK-016,,SEC-006,
-TASK-017,,SEC-006,
-TASK-018,,SEC-006,
-TASK-019,,SEC-006,
+TASK-001,National ID Card New Application,SEC-001,Identity & Civil Documentation
+TASK-002,National ID Card Renewal,SEC-001,Identity & Civil Documentation
+TASK-003,Passport New Application,SEC-002,Passport & Immigration Services
+TASK-004,Passport Renewal,SEC-002,Passport & Immigration Services
+TASK-005,Emergency Travel Document,SEC-002,Passport & Immigration Services
+TASK-006,Visa Extension Application,SEC-002,Passport & Immigration Services
+TASK-007,Driving License New Application,SEC-003,License & Permit Services
+TASK-008,Driving License Renewal,SEC-003,License & Permit Services
+TASK-009,Business Registration Certificate,SEC-003,License & Permit Services
+TASK-010,Birth Certificate Request,SEC-004,Registrar General Services
+TASK-011,Marriage Certificate Request,SEC-004,Registrar General Services
+TASK-012,Death Certificate Request,SEC-004,Registrar General Services
+TASK-013,Income Tax Registration,SEC-005,Revenue & Taxation Services
+TASK-014,Tax Clearance Certificate,SEC-005,Revenue & Taxation Services
+TASK-015,VAT Registration,SEC-005,Revenue & Taxation Services
+TASK-016,Medical Report Request,SEC-006,Public Health Services
+TASK-017,Vaccination Certificate,SEC-006,Public Health Services
+TASK-018,Social Welfare Application,SEC-006,Public Health Services
+TASK-019,Samurdhi Benefits Registration,SEC-006,Public Health Services
